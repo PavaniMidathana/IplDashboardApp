@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.lm-container {
+  background-color: #0f172a;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.lm-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 23px;
+  font-weight: 600;
+}
+
+.lm-text {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.lm-date {
+  height: 300px;
+  width: 300px;
+}
